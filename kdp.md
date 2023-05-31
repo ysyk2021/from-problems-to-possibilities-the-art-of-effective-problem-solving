@@ -16,7 +16,7 @@ Additionally, this book showcases real-life examples of problem-solving in actio
 
 By the end of this book, readers will have a comprehensive toolkit for approaching and solving problems effectively. Whether you're a student, a professional, or simply someone who wants to improve your problem-solving skills, "From Problems to Possibilities: The Art of Effective Problem-Solving" is a valuable resource that will help you achieve your goals and overcome obstacles with confidence and creativity.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 1. Problem-solving techniques
