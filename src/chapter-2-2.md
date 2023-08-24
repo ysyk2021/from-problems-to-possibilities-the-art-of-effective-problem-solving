@@ -1,5 +1,3 @@
-Identifying Different Types of Problems
-========================================================================================
 
 Before we can effectively solve problems, it is important to understand the different types of problems that we may encounter. In this chapter, we will explore some common types of problems and how they can be approached using problem-solving theory.
 

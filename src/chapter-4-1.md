@@ -1,5 +1,3 @@
-The Role of Creativity and Innovation in Effective Problem-Solving
-==============================================================================================================
 
 Creating innovative solutions is an essential component of effective problem-solving. In this chapter, we explore the importance of creativity and innovation in problem-solving and techniques for generating new and inventive solutions.
 

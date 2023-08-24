@@ -1,5 +1,3 @@
-Chapter 4: Evaluating and Selecting Solutions
-=============================================
 
 Effective problem-solving involves not only generating solutions to problems, but also evaluating and selecting the best option. This chapter will explore the importance of evaluation and selection in effective problem-solving, as well as techniques for addressing risks and uncertainties and building consensus among stakeholders.
 

@@ -1,5 +1,3 @@
-Evaluating the Impact of the Problem on Stakeholders
-======================================================================================
 
 An essential component of effective problem-solving is analyzing the problem to fully understand its impact on stakeholders. In this chapter, we explore techniques for evaluating the impact of a problem on stakeholders.
 

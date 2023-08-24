@@ -1,5 +1,3 @@
-Managing Conflicts and Difficult Conversations
-=======================================================================================
 
 Effective problem-solving can involve navigating conflicts and having difficult conversations. This chapter will explore common challenges individuals and teams may face in managing conflicts and provide strategies for having difficult conversations.
 

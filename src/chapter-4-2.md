@@ -1,5 +1,3 @@
-Techniques for Generating Innovative Solutions
-==========================================================================================
 
 Generating innovative solutions is a key element of effective problem-solving. In this chapter, we explore several techniques that can help leaders generate new and inventive solutions to complex problems.
 

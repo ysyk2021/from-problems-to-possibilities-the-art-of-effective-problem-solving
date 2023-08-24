@@ -1,5 +1,3 @@
-Building Resiliency and Adaptability
-=======================================================================================
 
 Effective problem-solving requires more than just identifying and solving problems - it also requires the ability to adapt and bounce back from challenges. In this chapter, we will explore how to build resiliency and adaptability to better navigate problems in the future.
 

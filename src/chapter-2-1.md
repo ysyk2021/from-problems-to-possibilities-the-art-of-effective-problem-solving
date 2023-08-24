@@ -1,5 +1,3 @@
-Overview of Problem-Solving Theory
-===================================================================================
 
 Effective problem-solving begins with understanding the nature of problems and how they can be approached. In this chapter, we will provide an overview of problem-solving theory, which outlines a systematic approach to identifying obstacles and generating solutions.
 

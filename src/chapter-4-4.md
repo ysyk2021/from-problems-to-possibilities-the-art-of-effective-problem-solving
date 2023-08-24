@@ -1,5 +1,3 @@
-Encouraging Diverse Perspectives and Backgrounds for Better Problem-Solving Outcomes
-================================================================================================================================
 
 In order to generate innovative solutions, it is important to encourage diverse perspectives and backgrounds in problem-solving efforts. This chapter will explore the benefits of diversity in problem-solving, techniques for encouraging diverse perspectives, and strategies for ensuring that all voices are heard.
 

@@ -1,5 +1,3 @@
-Overcoming Resistance to Change
-===========================================================================
 
 Generating innovative solutions often requires change, and change can be difficult for individuals and organizations to embrace. This chapter will explore the reasons why individuals and organizations may resist change, strategies for overcoming resistance, and techniques for implementing change effectively.
 

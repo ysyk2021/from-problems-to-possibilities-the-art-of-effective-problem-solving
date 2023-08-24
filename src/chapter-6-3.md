@@ -1,5 +1,3 @@
-Evaluating Results to Build Continuous Improvement into Problem-Solving Practices
-===========================================================================================================================================
 
 Implementing solutions to solve a problem is one thing, but evaluating the results of those solutions is another. Without a rigorous evaluation process, it can be difficult to determine the effectiveness of implemented solutions. In this chapter, we explore the importance of evaluating results in problem-solving and techniques for building continuous improvement into problem-solving practices.
 

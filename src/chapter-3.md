@@ -1,5 +1,3 @@
-Chapter 2: Analyzing the Problem
-================================
 
 Effective problem-solving requires a thorough analysis of the problem at hand. In this chapter, we will explore the importance of problem analysis and techniques for identifying, defining, and evaluating the impact of a problem on stakeholders. We will also discuss how to identify potential causes and effects of the problem.
 

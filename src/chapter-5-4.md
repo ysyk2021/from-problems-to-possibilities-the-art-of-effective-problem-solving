@@ -1,5 +1,3 @@
-Building Consensus Among Stakeholders
-====================================================================================
 
 Evaluating and selecting solutions is a critical step in the problem-solving process, and building consensus among stakeholders is essential to achieving successful outcomes. This chapter will explore best practices for evaluating and selecting solutions, strategies for building consensus among stakeholders, and techniques for overcoming challenges that may arise during the solution evaluation and selection process.
 

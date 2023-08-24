@@ -1,5 +1,3 @@
-Developing an Entrepreneurial Mindset
-========================================================================================
 
 Effective problem-solving requires a shift in mindset - from focusing solely on the problem to seeking out opportunities that may arise from the problem. In this chapter, we will explore how to develop an entrepreneurial mindset and leverage opportunities from problems.
 

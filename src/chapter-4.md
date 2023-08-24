@@ -1,5 +1,3 @@
-Chapter 3: Generating Innovative Solutions
-==========================================
 
 Effective problem-solving requires more than just identifying and analyzing problems. It also involves generating innovative solutions that address the root causes of problems and meet the needs of stakeholders. In this chapter, we will explore the role of creativity and innovation in effective problem-solving, techniques for generating innovative solutions, overcoming resistance to change, and encouraging diverse perspectives for better problem-solving outcomes.
 

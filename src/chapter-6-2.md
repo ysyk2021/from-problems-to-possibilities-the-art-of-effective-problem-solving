@@ -1,5 +1,3 @@
-Techniques for Implementing Solutions Effectively
-===========================================================================================================
 
 Once a solution has been identified, effective implementation is critical to achieving success in problem-solving. This chapter will explore techniques for implementing solutions effectively.
 
