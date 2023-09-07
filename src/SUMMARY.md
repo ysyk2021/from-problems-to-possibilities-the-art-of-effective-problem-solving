@@ -41,3 +41,4 @@
   - [Building resiliency and adaptability](chapter-8-4.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
