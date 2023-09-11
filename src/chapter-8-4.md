@@ -1,5 +1,4 @@
-Chapter 9: Building Resiliency and Adaptability
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of building resiliency and adaptability in the context of effective problem solving. Resiliency and adaptability are crucial qualities that enable individuals and teams to navigate complexity, overcome challenges, and seize opportunities. By developing these traits, problem solvers can thrive in dynamic environments and transform problems into possibilities.
 

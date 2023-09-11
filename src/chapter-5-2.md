@@ -1,5 +1,4 @@
-Chapter 8: Techniques for Evaluating and Selecting Solutions
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various techniques and approaches for evaluating and selecting solutions during the problem-solving process. By applying these techniques, problem solvers can make informed decisions and choose the most effective solutions to address the identified problems.
 

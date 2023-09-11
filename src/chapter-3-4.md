@@ -1,5 +1,4 @@
-Chapter 4: Identifying Potential Causes and Effects of the Problem
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial step of identifying potential causes and effects of the problem. By thoroughly analyzing the problem and its underlying factors, problem solvers can gain a deeper understanding of the situation and develop effective strategies for resolution.
 

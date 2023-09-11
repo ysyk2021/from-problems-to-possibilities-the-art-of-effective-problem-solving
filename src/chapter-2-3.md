@@ -1,5 +1,4 @@
-Chapter 5: Developing Self-Awareness as a Problem Solver
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of self-awareness in the context of problem-solving. Developing self-awareness allows problem solvers to enhance their effectiveness, understand their strengths and limitations, and cultivate a mindset of continuous growth.
 

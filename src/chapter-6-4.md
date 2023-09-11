@@ -1,5 +1,4 @@
-Chapter 9: Addressing Ethical Considerations in Problem-Solving
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As problem solvers, it is essential to recognize and address the ethical dimensions of the challenges we face. This chapter delves into the importance of considering ethical considerations in problem-solving and provides strategies for navigating them effectively.
 

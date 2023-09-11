@@ -1,5 +1,4 @@
-Chapter 8: Dealing with Setbacks and Failures
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the essential steps and strategies for effectively dealing with setbacks and failures during the problem-solving process. Setbacks and failures are inevitable parts of any journey, but how we respond to them can make all the difference. By adopting a resilient and proactive mindset, individuals and teams can navigate challenges and turn setbacks into opportunities for growth and learning.
 

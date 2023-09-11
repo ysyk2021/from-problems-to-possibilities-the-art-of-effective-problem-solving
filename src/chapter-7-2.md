@@ -1,5 +1,4 @@
-Chapter 9: Coping with Stress and Uncertainty
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies and techniques for coping with stress and uncertainty during the problem-solving process. Problem solvers often encounter challenging situations that induce stress and create uncertainty. By learning how to manage these emotions, problem solvers can maintain focus, resilience, and effectiveness throughout the problem-solving journey.
 

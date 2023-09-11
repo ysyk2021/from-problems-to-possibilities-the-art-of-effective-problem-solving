@@ -1,5 +1,4 @@
-Chapter 5: The Role of Creativity and Innovation in Effective Problem-Solving
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective problem-solving is not merely about finding quick solutions; it involves approaching problems with creativity and embracing innovative thinking. This chapter delves into the integral role that creativity and innovation play in solving complex problems, exploring various strategies and techniques that can enhance problem-solving outcomes.
 

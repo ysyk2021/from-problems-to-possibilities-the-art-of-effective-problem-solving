@@ -1,5 +1,4 @@
-Chapter 2: Overview of Problem-Solving Theory
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the fundamental concepts and theories that form the basis of effective problem-solving. By understanding the underlying principles of problem-solving theory, we can develop a solid foundation for approaching and resolving various challenges.
 

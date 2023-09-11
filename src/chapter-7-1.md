@@ -1,5 +1,4 @@
-Chapter 7: Addressing Common Challenges in Problem-Solving
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore some of the common challenges that problem solvers encounter during the problem-solving process. By understanding and addressing these challenges, problem solvers can navigate obstacles more effectively and increase their chances of finding successful solutions.
 

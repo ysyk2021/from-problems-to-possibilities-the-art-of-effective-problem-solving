@@ -1,5 +1,4 @@
-Chapter 10: Evaluating the Impact of the Problem on Stakeholders
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial step of evaluating the impact of a problem on stakeholders in the process of effective problem-solving. Understanding how a problem affects different stakeholders is essential for finding appropriate and sustainable solutions. By evaluating the impact on stakeholders, problem solvers can make informed decisions that consider the needs and interests of all involved parties.
 

@@ -1,5 +1,4 @@
-Chapter 7: Techniques for Generating Innovative Solutions
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In order to effectively solve problems, it is essential to generate innovative solutions that go beyond traditional thinking. This chapter explores various techniques and approaches that can inspire creativity and help individuals and teams generate novel and innovative solutions.
 

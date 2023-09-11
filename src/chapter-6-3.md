@@ -1,5 +1,4 @@
-Chapter 6: Evaluating Results to Build Continuous Improvement into Problem-Solving Practices
-============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Continuous improvement is a key aspect of effective problem-solving. Evaluating the results and outcomes of problem-solving efforts enables individuals and organizations to learn from their experiences, identify areas for improvement, and enhance future problem-solving practices. This chapter explores the importance of evaluating results and offers strategies for building continuous improvement into problem-solving processes.
 

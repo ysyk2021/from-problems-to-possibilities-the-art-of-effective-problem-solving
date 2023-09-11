@@ -1,5 +1,4 @@
-Chapter 5: Identifying Different Types of Problems
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types of problems that can arise and need to be addressed. By understanding the different categories of problems, problem solvers can apply appropriate strategies and techniques to tackle them effectively.
 
